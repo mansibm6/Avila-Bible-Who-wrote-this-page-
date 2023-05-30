@@ -1,4 +1,4 @@
-# Identifying who transcribed the Avila Bible dataset
+# Identifying which Monk transcribed the Avila Bible dataset
 
 ## Authors 
 
